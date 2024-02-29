@@ -12,7 +12,11 @@ Med en dyp interesse for design og brukervennlighet, er jeg i en kontinuerlig l�
 
 <hr>
 
-[![Adrian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdrianK-B06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AdrianK-B06/github-readme-stats#gh-dark-mode-only)
+[![Adrian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdrianK-B06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AdrianK-B06/github-readme-stats#gh-dark-mode-only)   ![](https://github.com/AdrianK-B06/AdrianK-B06/blob/main/batsignal.gif)
+
+<hr>
+
+
 
 <!--
 **AdrianK-B06/AdrianK-B06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
