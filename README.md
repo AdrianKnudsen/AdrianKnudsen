@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<hr>
+
+Hei, jeg er Adrian Knudsen, en ivrig og dedikert kodningsstudent ved Kodehode i Bergen. Min lidenskap for teknologi og design driver 
+meg i min reise etter å mestre ferdighetene innen webutvikling. 
+Med en dyp interesse for design og brukervennlighet, er jeg i en kontinuerlig læringsprosess for å finpusse mine ferdigheter og holde meg oppdatert med de nyeste trendene og beste praksisene i bransjen.
+
+<hr>
+
+[Min Portfolio](adriank-b06.github.io/Portfolio)
+
+<hr>
 
 [![Adrian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdrianK-B06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AdrianK-B06/github-readme-stats#gh-dark-mode-only)
 
