@@ -8,7 +8,7 @@ Med en dyp interesse for design og brukervennlighet, er jeg i en kontinuerlig l√
 
 <hr>
 
-[Min Portfolio](adriank-b06.github.io/Portfolio)
+[Min Portfolio](http://adriank-b06.github.io/Portfolio/)
 
 <hr>
 
