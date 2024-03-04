@@ -2,7 +2,7 @@
 
 <hr>
 
-Hei, jeg er Adrian Knudsen, en ivrig og dedikert kodningsstudent ved Kodehode i Bergen. Min lidenskap for teknologi og design driver 
+Jeg er Adrian Knudsen, en ivrig og dedikert kodningsstudent ved Kodehode i Bergen. Min lidenskap for teknologi og design driver 
 meg i min reise etter å mestre ferdighetene innen webutvikling. 
 Med en dyp interesse for design og brukervennlighet, er jeg i en kontinuerlig læringsprosess for å finpusse mine ferdigheter og holde meg oppdatert med de nyeste trendene og beste praksisene i bransjen.
 
