@@ -8,11 +8,11 @@ Med en dyp interesse for design og brukervennlighet, er jeg i en kontinuerlig l√
 
 <hr>
 
-[Min Portfolio](http://adriank-b06.github.io/Portfolio/)
+[Min Portfolio](http://adrianknudsen.github.io/Portfolio/)
 
 <hr>
 
-[![Adrian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdrianK-B06&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AdrianK-B06/github-readme-stats#gh-dark-mode-only)   ![](https://github.com/AdrianK-B06/AdrianK-B06/blob/main/batsignal.gif)
+[![Adrian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdrianKnudsen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AdrianKnudsen/github-readme-stats#gh-dark-mode-only)   ![](https://github.com/AdrianKnudsen/AdrianKnudsen/blob/main/batsignal.gif)
 
 <hr>
 
