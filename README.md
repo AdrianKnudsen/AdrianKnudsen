@@ -2,11 +2,11 @@
 
 <hr>
 
-My name is Adrian Knudsen, an enthusiastic and dedicated coding student at Kodehode in Bergen. My passion for technology and design drives me in my journey to master the skills in web development. With a deep interest in design and usability, I am in a continuous learning process to refine my skills and stay updated with the latest trends and best practices in the industry.
+My name is Adrian Knudsen, an enthusiastic and dedicated coder living in Bergen. My passion for technology and design drives me in my journey to master the skills in web development. With a deep interest in design and usability, I am in a continuous learning process to refine my skills and stay updated with the latest trends and best practices in the industry.
 
 <hr>
 
-Jeg er Adrian Knudsen, en ivrig og dedikert kodningsstudent ved Kodehode i Bergen. Min lidenskap for teknologi og design driver meg i min reise etter å mestre ferdighetene innen webutvikling. Med en dyp interesse for design og brukervennlighet, er jeg i en kontinuerlig læringsprosess for å finpusse mine ferdigheter og holde meg oppdatert med de nyeste trendene og beste praksisene i bransjen.
+Mitt navn er Adrian Knudsen, en ivrig og dedikert koder som bor i Bergen. Min lidenskap for teknologi og design driver meg i min reise etter å mestre ferdighetene innen webutvikling. Med en dyp interesse for design og brukervennlighet, er jeg i en kontinuerlig læringsprosess for å finpusse mine ferdigheter og holde meg oppdatert med de nyeste trendene og beste praksisene i bransjen.
 
 <hr>
 
