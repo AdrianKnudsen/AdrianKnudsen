@@ -14,7 +14,8 @@ Mitt navn er Adrian Knudsen, en ivrig og dedikert koder som bor i Bergen. Min li
 
 <hr>
 
-[![Adrian's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdrianKnudsen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AdrianKnudsen/github-readme-stats#gh-dark-mode-only)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianKnudsen&layout=donut&bg_color=1A1A1A&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/AdrianKnudsen/github-readme-stats)
+[![Adrian's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=AdrianKnudsen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AdrianKnudsen/github-readme-stats#gh-dark-mode-only)  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AdrianKnudsen&layout=donut&bg_color=1A1A1A&title_color=FFFFFF&text_color=FFFFFF)](https://github.com/AdrianKnudsen/github-readme-stats)
+
 
 <hr>
 
@@ -22,6 +23,7 @@ Mitt navn er Adrian Knudsen, en ivrig og dedikert koder som bor i Bergen. Min li
 
 <!--
 **AdrianK-B06/AdrianK-B06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdrianKnudsen&theme=hacker&hide_border=true&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
